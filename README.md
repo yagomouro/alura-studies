@@ -1,1 +1,1 @@
-An application that helps in studies, developed in an Alura course!
+An application that helps in studies, developed in an Alura course, using React, Typescript and Css Modules 
